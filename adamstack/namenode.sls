@@ -1,5 +1,5 @@
 include:
-  - .
+  - adamstack
   - adam
   - hadoop.hdfs
 
