@@ -1,4 +1,4 @@
-{{env}}:
+base:
   '*':
     - meshssh
     - meshhosts
