@@ -1,4 +1,7 @@
 base:
+  '*': 
+    - meshssh
+    - meshhosts
   'adam_namenode:true':
     - match: grain
     - adamstack.namenode
